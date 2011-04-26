@@ -1,0 +1,31 @@
+/* @override http://127.0.0.1:5984/hobontology/_design/hobo/style/main.css */
+
+body {
+    background-image: url('../loganmonster.jpg'); 
+}
+
+#logans-contribution-to-my-homepage {
+	color: #f8eca7;
+	width: 500px;
+	word-wrap: break-word;
+	margin-left: 20px;
+	margin-top: 10px;
+	font: 18px sans-serif;
+}
+footer p {
+	bottom: 0;
+	padding: 5px;
+	font-size: 12px;
+	line-height: 16px;
+	background-color: white;
+	display: block;
+	float: right;
+	position: absolute;
+	border-style: solid;
+	#border-width: 1px;
+}
+
+a {
+	text-decoration: none;
+	color:  gray;
+}
