@@ -1,19 +1,28 @@
 /* @override http://127.0.0.1:5984/hobontology/_design/hobo/style/main.css */
 
+body {
+    background-color: #C7C7C7;
+}
 
-
-#wordies {
+#wordies p {
 	width: 500px;
-	word-wrap: break-word;
+	word-wrap: normal;
 	margin-left: 20px;
 	margin-top: 10px;
 	font: 18px sans-serif;
-	padding-bottom: 20px;
+}
+h1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font: 36px sans-serif;
+    width: 90%;
+    
 }
 
 footer p {
 	#bottom: 1px;
 	padding: 5px;
+	margin-top: 20px;
 	font-size: 12px;
 	line-height: 16px;
 	background-color: white;
