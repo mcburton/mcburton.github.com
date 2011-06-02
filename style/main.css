@@ -1,10 +1,8 @@
 /* @override http://127.0.0.1:5984/hobontology/_design/hobo/style/main.css */
 
-body {
-    background-image: url('../loganmonster.jpg'); 
-}
 
-#logans-contribution-to-my-homepage {
+
+#wordies {
 	color: #f8eca7;
 	width: 500px;
 	word-wrap: break-word;
@@ -12,6 +10,7 @@ body {
 	margin-top: 10px;
 	font: 18px sans-serif;
 }
+
 footer p {
 	bottom: 0;
 	padding: 5px;
