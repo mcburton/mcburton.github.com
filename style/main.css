@@ -8,10 +8,11 @@
 	margin-left: 20px;
 	margin-top: 10px;
 	font: 18px sans-serif;
+	padding-bottom: 20px;
 }
 
 footer p {
-	#bottom: 0;
+	#bottom: 1px;
 	padding: 5px;
 	font-size: 12px;
 	line-height: 16px;
