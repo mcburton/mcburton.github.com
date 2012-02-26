@@ -24,14 +24,16 @@ body {
 	/* Change font below */
 
 	/* Sans-serif fonts */	
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
+/*	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;*/
 	
 	/* Serif fonts */
 	/*
 	font-family: "Cochin", "Baskerville", "Georgia", serif;
 	-webkit-font-smoothing: subpixel-antialiased;
 	*/
+	font-family:'Georgia', 'Baskerville', 'Palatino' serif;
+	-webkit-font-smoothing: subpixel-antialiased;
 	
 	/* Monospaced fonts */
 	/*
