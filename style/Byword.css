@@ -66,6 +66,10 @@ h5, h6 {
 /* end of headings */
 p {
     margin:0 0 24px 0;
+	width: 500px;
+	word-wrap: normal;
+/*	margin-left: 20px;
+	margin-top: 10px;*/
 }
 p:last-child {
     margin:0;
