@@ -1,0 +1,29 @@
+*Some addled and undeveloped thoughts on community.*
+
+When thinking about the comments at Hacker News the very wise Mr. @fogus posits:
+    "Great commentators transcend context."
+This then leads him to conclude:
+    "
+    Hacker News is a community.
+    Communities become predictable.
+    Individuals are where it’s at.
+    "
+This got me to thinking about the way I manage communities in my own (on-line & off-line) life. My  relationship to various communities _seems_ to follow this pattern (I emphasize 'seems' because I admit I haven't given this a whole lot of thought):
+
+1. Learn of a community and think "hey I want to be a part of that"
+2. Hang out where they hang out
+3. Identify individuals whom you like
+4. Follow them more
+5. Hangout in the broader community less
+
+What is interesting is how this pattern applies equally to off-line relations (or at least it does for me). For example, when I first moved to Ann Arbor, I got heavily involved in the local food scene. My involvement in that community yielded an overwhelming amount of social relations. As I got busy with graduate school, I had to (sadly) step down my involvement. But I didn't cut myself off completely, rather I ended up hanging out with some folks more than others (individuals who are more like me than others, homophily [1] perhaps?). Those individuals, for various reasons, _transcended_ the local food _context_ and became my friends in their own right. 
+
+Just as @fogus talks about how he participated in Hackernews as a whole and then cherry-picked a few individuals, I found the same pattern IRL. What is interesting is the subset of the communities we choose to "follow" are not public and identifiable communities, rather they are personal social circles[2]. IMHO, the personal circle becomes a vital filtering mechanisms against the flood of information & social relations from the community writ large. When I don't find specific individuals with whom I form a trust relation –this relation could be unidirectional, I might follow someone who doesn't know me, yet I trust them to be a proxy to the broader community– then I must either commit myself entirely or step away from the community because I do not have time or attention to manage the flood. I stopped following the Couchdb community b/c I never found anyone who really "won my heart" whereas @fogus and @swannodette keep me (semi) plugged into the Clojure community. 
+
+@fogus also highlights a very crucial point:
+"Hacker News has not changed. I have."
+When joining a community, it might be smart to think about your, for lack of a better term, "exit strategy." Attention is a limited resource, you can either commit yourself and your identity to a community entirely, at the expense of other communities OR you can find individuals you like and move on. If communities do become predictable, staying put might result in group think and then you become a walking stereotype. Stepping away from a community is not necessarily a bad thing. It might indicate that you were never a good fit, but it also might indicate that your involvement has changed you. Leaving a community with a set of friends or followers could be wonderful sign of personal growth. So, perhaps instead of "winning friends and influencing people, it should be "finding friends and being influenced by them." 
+
+
+[1] http://en.wikipedia.org/wiki/Homophily
+[2] This is not a post analyzing G+, but I do think the G+ implementation gets this right.
