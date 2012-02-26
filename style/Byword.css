@@ -28,13 +28,13 @@ body {
 	-webkit-font-smoothing: antialiased;*/
 	
 	/* Serif fonts */
-	/*
+	
 	font-family: "Cochin", "Baskerville", "Georgia", serif;
 	-webkit-font-smoothing: subpixel-antialiased;
-	*/
-	font-family:'Georgia', 'Baskerville', 'Palatino' serif;
-	-webkit-font-smoothing: subpixel-antialiased;
 	
+/*	font-family:'Georgia', 'Baskerville', 'Palatino' serif;
+	-webkit-font-smoothing: subpixel-antialiased;
+	*/
 	/* Monospaced fonts */
 	/*
 	font-family: "Courier New", Menlo, Monaco, mono;
