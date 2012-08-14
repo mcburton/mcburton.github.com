@@ -1,0 +1,78 @@
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <link href="http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    body {
+        font-family: Sorts Mill Goudy, serif;
+        color: #666; background-color: #fdfbfb;
+        margin: 0;
+    }
+    body, th, td { font-size: 15pt; }
+
+    div.body, div.head {
+        margin-left: auto; margin-right: auto; max-width: 46em;
+    }
+    div.inbody, div.inhead {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+    div.outhead {
+        background-image: url(/img/ibm360-control-panel.jpg);
+        background-size: 100%;
+    }
+    hgroup {
+        margin-left: -16em;
+        padding-left: 16em;
+        padding-top: 8em;
+    }
+    hgroup h1, hgroup h2 {
+        color: #fdfbfb;
+        opacity: 1.0;
+        text-shadow: rgba(0, 0, 0, 0.3) 3px 2px;
+    }
+    hgroup h1 { font-size: 310%; ;}
+    hgroup h2 { font-size: 170%; }
+
+
+    h1, h2, h3, h4, h5, h6 { color: black; opacity: 0.75; font-style: italic; font-weight: bold; }
+    div.by { font-style: italic; text-align: right; }
+    p { line-height: 1.4em; }
+    pre { margin-left: 2.5em; }
+    kbd { font-weight: bold; }
+    span.error { color: #c00; }
+    a:link { color: #446077; }
+    a:visited { color: #3c5066; }
+    a:link.sublim { text-decoration: none; }
+    a:hover.sublim { text-decoration: underline; }
+
+    section { margin-top: 2.5em; }
+    hr { opacity: 0.6; margin-top: 2.5em; }
+    div.footer { font-style: italic; }
+  </style>
+</head>
+
+<body>
+
+<div class="outhead">
+  <div class="head">
+    <div class="inhead">
+      <hgroup>
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.date | date: "%A, %B %d %Y" }}</h2>
+      </hgroup>
+    </div>
+  </div>
+</div>
+
+<div class="body">
+  <div class="inbody">
+    {{ content }}
+    <div class="footer">
+      <p>The <a href="/blogsy/">blog</a> of <a href="/"><strong>Matt Burton</strong></a></p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
