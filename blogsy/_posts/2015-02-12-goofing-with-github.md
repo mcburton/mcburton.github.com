@@ -1,6 +1,6 @@
---
+---
 layout: blogsy
---
+---
 
 So I was just reading a blog post titled [*How GitHub Writes Blog Posts*](http://zachholman.com/posts/how-github-writes-blog-posts/) and it pointed to a help page discussing GitHub workflows that are [entirely within the browser](https://github.com/blog/1557-github-flow-in-the-browser). 
 
